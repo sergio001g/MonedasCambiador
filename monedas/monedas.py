@@ -12,7 +12,7 @@ class ConversorMonedas:
         self.root.geometry("600x700")
         self.root.configure(bg='#121212')
         
-        self.api_key = "d0036b70f9f54aeff8ba521a"
+        self.api_key = "su api key "
         self.base_url = "https://v6.exchangerate-api.com/v6/"
         
         self.monedas = ["USD", "EUR", "GBP", "JPY", "CHF", "MXN", "CAD", "ARS", "BRL", "CNY", "AUD", "NZD", "SGD", "HKD", "KRW"]
