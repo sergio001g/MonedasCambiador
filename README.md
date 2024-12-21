@@ -22,3 +22,4 @@ Bienvenido al Conversor de Monedas, la herramienta que convierte tu dinero en...
 - Interfaz en modo oscuro, porque ¿quién necesita el sol cuando estás manejando dinero?
 - Tabla completa de tasas de cambio, más confiable que el pronóstico del tiempo
 - Convierte monedas más rápido de lo que puedes cambiar de opinión sobre una compra
+## Tienen que poner su propia api key 
